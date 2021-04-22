@@ -1,0 +1,4 @@
+This dataset was downloaded from: yellowbrick package https://pypi.org/project/yellowbrick/
+
+from yellowbrick.datasets import load_spam
+x_data, y_data = load_spam()
